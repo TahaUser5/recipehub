@@ -18,7 +18,7 @@ A full-stack recipe sharing platform — built with **React + Tailwind CSS** on 
 
 Watch the full walkthrough of RecipeHub in action:
 
-[![RecipeHub Demo](https://cdn.loom.com/sessions/thumbnails/3d0c85e16a49469bbda044a1b8a3e99b-with-play.gif)](https://www.loom.com/share/3d0c85e16a49469bbda044a1b8a3e99b)
+**[▶ Watch Demo on Loom](https://www.loom.com/share/3d0c85e16a49469bbda044a1b8a3e99b)**
 
 > Browse recipes, filter by category, view details, register an account, and submit your own recipe — all in one flow.
 
