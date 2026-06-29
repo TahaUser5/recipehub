@@ -14,6 +14,14 @@ A full-stack recipe sharing platform — built with **React + Tailwind CSS** on 
 - JWT-based register/login, passwords hashed with bcrypt
 - REST API: `GET/POST/DELETE /api/recipes`, `GET /api/recipes/:id`, `POST /api/auth/register`, `POST /api/auth/login`
 
+## 🎥 Demo
+
+Watch the full walkthrough of RecipeHub in action:
+
+[![RecipeHub Demo](https://cdn.loom.com/sessions/thumbnails/3d0c85e16a49469bbda044a1b8a3e99b-with-play.gif)](https://www.loom.com/share/3d0c85e16a49469bbda044a1b8a3e99b)
+
+> Browse recipes, filter by category, view details, register an account, and submit your own recipe — all in one flow.
+
 ## Run it locally
 
 ### 1. Backend
@@ -58,3 +66,4 @@ recipe-app/
 ## Notes
 - Data is stored in-memory on the backend (resets on server restart) — swap in MongoDB/Postgres for persistence.
 - JWT secret is hardcoded for demo purposes — move to an environment variable for production.
+
